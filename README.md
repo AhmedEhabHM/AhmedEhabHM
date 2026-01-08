@@ -13,7 +13,7 @@
 ## About Me
 
 Frontend Developer with a year of experience building scalable, responsive web applications using **React.js** and **TypeScript**.
-I have a proven track record of optimizing UI performance and reducing code redundancy by implementing reusable components and **Tailwind CSS**.
+I have a proven track record of optimizing UI performance and reducing code redundancy by implementing reusable components.
 
 ---
 
@@ -41,7 +41,7 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 
 </table>
 
->> I am passionate about **Clean Code** principles and thrive in **Agile** environments. My start point was **CS50 from Harvard University** has provided me with a strong foundation in problem-solving and analytical thinking.
+> I am passionate about **Clean Code** principles and thrive in **Agile** environments. My start point was **CS50 from Harvard University** has provided me with a strong foundation in problem-solving and analytical thinking.
 
 ---
 
