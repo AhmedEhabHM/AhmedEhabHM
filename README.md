@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm Ahmed Ehab Elsayed
+#  Hi there, I'm Ahmed Ehab Elsayed
 
 ### 💻 Frontend Developer | React.js & TypeScript Specialist
 
@@ -10,26 +10,26 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 Frontend Developer with a year of experience building scalable, responsive web applications using **React.js** and **TypeScript**.
 I have a proven track record of optimizing UI performance and reducing code redundancy by implementing reusable components and **Tailwind CSS**.
 
 ---
 
-## 🎯 Key Professional Highlights
+##  Key Professional Highlights
 
 <table>
 <tr>
 <td width="50%">
 
-### ⚡ Performance Optimization
+###  Performance Optimization
 Improved applications performance and achieved **90+ Lighthouse scores** through efficient state management and modern animation libraries like **Framer Motion**.
 
 </td>
 <td width="50%">
 
-### 🏆 Technical Leadership
+###  Technical Leadership
 Awarded **"Best Trainee"** for leading development teams and delivering complex projects like E-commerce platforms and Kanban boards under strict deadlines.
 
 </td>
@@ -37,18 +37,18 @@ Awarded **"Best Trainee"** for leading development teams and delivering complex 
 <tr>
 <td colspan="2" align="center">
 
-### 🔄 Full-Stack Mindset
+###  Full-Stack Mindset
 Currently expanding into **.NET Core** and **ASP.NET**, contributing to major architectural decisions and ensuring seamless data flow between frontend and backend.
 
 </td>
 </tr>
 </table>
 
-> 💡 I am passionate about **Clean Code** principles and thrive in **Agile** environments. My background in **CS50 from Harvard University** has provided me with a strong foundation in problem-solving and analytical thinking.
+> 💡 I am passionate about **Clean Code** principles and thrive in **Agile** environments. My start point **CS50 from Harvard University** has provided me with a strong foundation in problem-solving and analytical thinking.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -89,8 +89,6 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedEhabHM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=AhmedEhabHM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -123,9 +121,6 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 ---
 
 <div align="center">
-
-### 💭 Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
@@ -133,8 +128,6 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 ---
 
 <div align="center">
-  
-
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
