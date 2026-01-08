@@ -119,7 +119,7 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 
 <div align="center">
 
-### 💭 
+ 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
