@@ -34,14 +34,11 @@ Awarded **"Best Trainee"** for leading development teams and delivering complex 
 
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
 
 ###  Full-Stack Mindset
 Currently expanding into **.NET Core** and **ASP.NET**, contributing to major architectural decisions and ensuring seamless data flow between frontend and backend.
 
-</td>
-</tr>
+
 </table>
 
 > 💡 I am passionate about **Clean Code** principles and thrive in **Agile** environments. My start point **CS50 from Harvard University** has provided me with a strong foundation in problem-solving and analytical thinking.
