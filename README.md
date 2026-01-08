@@ -41,7 +41,7 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 
 </table>
 
-> 💡 I am passionate about **Clean Code** principles and thrive in **Agile** environments. My start point **CS50 from Harvard University** has provided me with a strong foundation in problem-solving and analytical thinking.
+>> I am passionate about **Clean Code** principles and thrive in **Agile** environments. My start point was **CS50 from Harvard University** has provided me with a strong foundation in problem-solving and analytical thinking.
 
 ---
 
