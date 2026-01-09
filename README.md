@@ -106,46 +106,25 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 ---
 
 ### Backend
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="65" height="65" />
-  <br>.NET
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" />
-  <br>C#
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-  <br>Python
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="65" height="65" />
-  <br>C
-</td>
-</tr>
-</table>
+<div align="center">
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 ---
 
 ### Database
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" />
-  <br>MongoDB
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/sqlserver-icon.svg" width="65" height="65" />
-  <br>SQL Server
-</td>
-<td align="center" width="96">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBwq1RrWCvEBjqWcXcvMGzk_4WBRFx2JRyg&s" width="48" height="48" />
-  <br>Firebase
-</td>
-</tr>
-</table>
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
 
 ---
 
