@@ -50,36 +50,129 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 <div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+  <br>React
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" />
+  <br>Redux Toolkit
+</td>
+<td align="center" width="96">
+  <img src="https://decode.agency/wp-content/uploads/2023/05/React-Query-logo.png" width="65" height="40" />
+  <br>React Query
+</td>
+<td align="center" width="96">
+  <img src="https://logowik.com/content/uploads/images/axios5736.logowik.com.webp" width="65" height="40" />
+  <br>Axios
+</td>
+<td align="center" width="96">
+  <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" height="40" />
+  <br>Next.js
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+  <br>TypeScript
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+  <br>JavaScript
+</td>
+</tr>
+</table>
+
+---
 
 ### Styling
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
+  <br>Bootstrap
+</td>
+<td align="center" width="96">
+  <img src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdxy1c2bvl6odeo52dodk.jpg" width="48" height="48" />
+  <br>Tailwind CSS
+</td>
+<td align="center" width="96">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="48" height="48" />
+  <br>Framer Motion
+</td>
+</tr>
+</table>
+
+---
 
 ### Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="65" height="65" />
+  <br>.NET
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" />
+  <br>C#
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+  <br>Python
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="65" height="65" />
+  <br>C
+</td>
+</tr>
+</table>
+
+---
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" />
+  <br>MongoDB
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/sqlserver-icon.svg" width="65" height="65" />
+  <br>SQL Server
+</td>
+<td align="center" width="96">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBwq1RrWCvEBjqWcXcvMGzk_4WBRFx2JRyg&s" width="48" height="48" />
+  <br>Firebase
+</td>
+</tr>
+</table>
+
+---
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" width="48" height="48" />
+  <br>Git
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+  <br>GitHub
+</td>
+<td align="center" width="96">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVFINJCzSzZB8cAIHLV1TG7Le6GtLX5qduEiNeuA7OHpaXTxViU-4yg2D6--5RkIl0SU&usqp=CAU" width="48" height="48" />
+  <br>Postman
+</td>
+<td align="center" width="96">
+  <img src="https://i.pinimg.com/736x/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.jpg" width="48" height="48" />
+  <br>Figma
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ---
 
