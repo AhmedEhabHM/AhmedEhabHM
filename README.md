@@ -165,7 +165,7 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 
 
 
-## 🔗 Quick Links
+##  Quick Links
 
 <div align="center">
 
@@ -177,7 +177,7 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
