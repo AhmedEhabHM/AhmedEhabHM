@@ -2,7 +2,7 @@
   
 #  Hi there, I'm Ahmed Ehab Elsayed
 
-### 💻 Frontend Developer | React.js & TypeScript Specialist
+###  Frontend Developer | React.js & TypeScript Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+%7C+TypeScript+%7C+Next.js;Building+Scalable+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
 
@@ -83,7 +83,7 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 
 <div align="center">
 
-| 📄 Resume | 💼 Projects | 
+|  Resume |  Projects | 
 |:---------:|:-----------:|
 | [View My CV](https://drive.google.com/file/d/1ZHLgY2QfvfVk2KH2eNU8-xrlFxOWgW-i/view) | [LinkedIn Projects](https://www.linkedin.com/in/ahmed-ehab-a41180320/details/projects/) |
 
