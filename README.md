@@ -171,7 +171,7 @@ Currently expanding into **.NET Core** and **ASP.NET**, contributing to major ar
 
 |  Resume |  Projects | 
 |:---------:|:-----------:|
-| [View My CV](https://drive.google.com/file/d/1ZHLgY2QfvfVk2KH2eNU8-xrlFxOWgW-i/view) | [LinkedIn Projects](https://www.linkedin.com/in/ahmed-ehab-a41180320/details/projects/) |
+| [View My CV](https://drive.google.com/file/d/1vTgH1vzvVxPUZbZZi6FiPDTzF_LmZpl2/view?usp=sharing) | [LinkedIn Projects](https://www.linkedin.com/in/ahmedehm/) |
 
 </div>
 
